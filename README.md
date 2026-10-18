@@ -1,3 +1,3 @@
 # OnlineSat — versão de revisão
 
-Site estático gerado a partir do projeto onlinesat-landing. Não indexado (robots bloqueia tudo).
+Build estático do site de vendas. Preços de exemplo; não é o lançamento comercial definitivo.
