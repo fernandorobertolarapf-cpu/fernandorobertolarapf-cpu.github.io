@@ -8,4 +8,4 @@
 :HL["/icons/maquinas.png","image"]
 :HL["/icons/isca.png","image"]
 :HL["/icons/frotas.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"solucoes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"FcuDDJdKnJNUSLDOuICyq"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"solucoes","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"pxhUfnBw8ruXO6s8qqLw9"}
