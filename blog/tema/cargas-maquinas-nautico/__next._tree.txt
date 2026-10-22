@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/05ekyp953fecz.css","style"]
+:HL["/_next/static/chunks/1in8k3lmnsth8.css","style"]
 :HL["/_next/static/media/6f50022166acbf6e-s.p.030kk_kf7g0jt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"tema","param":null,"prefetchHints":4192,"slots":{"children":{"name":"tema","param":{"type":"d","key":"cargas-maquinas-nautico","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"V8O96Fcl8G3ctzEGJSDKl"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"tema","param":null,"prefetchHints":4192,"slots":{"children":{"name":"tema","param":{"type":"d","key":"cargas-maquinas-nautico","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"84HCkC5qihLEWG8JIVnV3"}
